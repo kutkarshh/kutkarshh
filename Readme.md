@@ -14,7 +14,9 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/utkarshkrastogi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kutkarshh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kumar6K1)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/utkarshkrastogi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kutkarshh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kumar6K1) [![HackerRank]([https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white](https://img.shields.io/badge/HackerRank-blue?logo=hackerrank
+))]([https://twitter.com/Kumar6K1](https://www.hackerrank.com/kumar6_utkarsh))
+
 
 # 💻 Tech Stack:
 
