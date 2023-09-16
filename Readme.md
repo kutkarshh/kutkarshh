@@ -39,23 +39,23 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img  alt="Utkarsh K | Stats" target="_blank" src="https://github-readme-stats.vercel.app/api?username=kutkarshh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img  alt="Utkarsh K | Stats" decoding="async" loading="lazy" target="_blank" src="https://github-readme-stats.vercel.app/api?username=kutkarshh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 <p align="center"> 
-  <img  alt="Utkarsh K | Languages" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=pie" />
+  <img  alt="Utkarsh K | Languages" decoding="async" loading="lazy" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=pie" />
 </p>
 <p align="center">
-  <img alt="Utkarsh K | Streak" target="_blank" src="https://github-readme-streak-stats-five-gules.vercel.app?user=kutkarshh&theme=radical" />
+  <img alt="Utkarsh K | Streak" decoding="async" loading="lazy" target="_blank" src="https://github-readme-streak-stats-five-gules.vercel.app?user=kutkarshh&theme=radical" />
 </p>
 <br/>
 
 ## Top Repositories
 
 <a href="https://github.com/kutkarshh/BookingApp"  target="_blank" >
-  <img align="center" alt="Utkarsh K | BookingApp"  src="https://github-readme-stats.vercel.app/api/pin/?username=kutkarshh&repo=BookingApp&theme=radical" />
+  <img align="center" decoding="async" loading="lazy" alt="Utkarsh K | BookingApp"  src="https://github-readme-stats.vercel.app/api/pin/?username=kutkarshh&repo=BookingApp&theme=radical" />
 </a>
 <a href="https://www.linkedin.com/in/kutkarshh"  target="_blank"  >
-  <img align="center" alt="Utkarsh K | Portfolio"src="https://github-readme-stats.vercel.app/api/pin/?username=kutkarshh&repo=kutkarsh&theme=radical" />
+  <img align="center" decoding="async" loading="lazy" alt="Utkarsh K | Portfolio"src="https://github-readme-stats.vercel.app/api/pin/?username=kutkarshh&repo=kutkarsh&theme=radical" />
 </a>
 
 <br/>
@@ -65,7 +65,7 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 <br/>
 <p align="center">
-  <img align="center" alt="Utkarsh K | Trophies" src="https://github-profile-trophy.vercel.app/?username=kutkarshh&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img align="center" decoding="async" loading="lazy" alt="Utkarsh K | Trophies" src="https://github-profile-trophy.vercel.app/?username=kutkarshh&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 <br/>
 
