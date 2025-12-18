@@ -45,7 +45,7 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
   <img  alt="Utkarsh K | Languages" decoding="async" loading="lazy" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=pie" />
 </p>
 <p align="center">
-  <img alt="Utkarsh K | Streak" decoding="async" loading="lazy" target="_blank" src="https://github-readme-streak-stats-five-gules.vercel.app?user=kutkarshh&theme=radical" />
+        <img alt="Utkarsh K | Streak" src="https://streak-stats.demolab.com?user=kutkarshh&theme=radical" />
 </p>
 <br/>
 
